@@ -10,31 +10,36 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Bayesian Inference",
+    "Computational Statistics",
+    "Monte Carlo methods",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Statistics and Operational Research"
+  institution = "Lancaster University"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MRes in Statistics and Operational Research"
+  institution = "Lancaster University"
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Mathematics"
+  institution = "University of Manchester"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a lecturer in statistical learning in the department of Mathematics and Statistics and Lancaster University. I completed my PhD in 2014 at the STOR-i Centre for Doctoral Training under the supervision of Professor Paul Fearnhead and Dr Lyudmila Mihaylova.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I work on problems related to Gaussian processes, Bayesian inference and computational statistics, with a focus on Markov chain Monte Carlo and sequential Monte Carlo techniques.
+
+During my PhD I worked in collaboration with an industrial partner, MBDA, applying sequential Monte Carlo algorithms to target tracking and guidance problems. My current research is focused on Bayesian methods for Big Data and tools for online learning.
+
+I am one of the developers of the Gaussian Processes package for the Julia programming language.
