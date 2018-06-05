@@ -96,11 +96,12 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
-  map_api_key = "AIzaSyBMQmEo-moEP7vtkWJbM0Kj29NHP_opgJY"
-  latitude = "54.008631" 
-  longitude = "-2.784544"
-  zoom = 15
+  
+  # map = 1
+  # map_api_key = "AIzaSyBMQmEo-moEP7vtkWJbM0Kj29NHP_opgJY"
+  # latitude = "54.008631" 
+  # longitude = "-2.784544"
+  # zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -269,7 +270,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -298,4 +299,4 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [Languages.en]
-  languageCode = "en-us"
+  languageCode = "en-uk"
