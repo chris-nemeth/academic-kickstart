@@ -38,7 +38,7 @@ selected = false
 # Links (optional).
 url_pdf = "https://www.tandfonline.com/doi/abs/10.1080/10618600.2015.1093492"
 url_preprint = "https://arxiv.org/abs/1306.0735"
-url_code = "score_R_code.zip"
+url_code = "local_files/score_R_code.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""

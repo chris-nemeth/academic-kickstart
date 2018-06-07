@@ -1,31 +1,31 @@
 +++
 # Date this page was created.
-date = 2016-06-05T00:00:00
+date = 2016-04-27T00:00:00
 
 # Project title.
 title = "Stochastic gradient MCMC"
 
 # Project summary to display on homepage.
-summary = "An R package for stochastic gradient Markov chain Monte Carlo sampling."
+summary = "An R package based on Tensorflow for stochastic gradient Monte Carlo sampling."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "sgmcmc-stan-time.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["deep-learning"]
+tags = [""]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/STOR-i/sgmcmc"
 
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 
-An R package for stochastic gradient Markov chain Monte Carlo. The package implements a number of popular algorithms including SGLD, SGHMC and SGNHT. The package uses automatic differentiation, via the Tensorflow library, where all differentiation needed for the methods is calculated automatically. Control variate methods can be used in order to improve the efficiency of the methods as proposed in our paper Control variates for stochastic gradient MCMC.
+

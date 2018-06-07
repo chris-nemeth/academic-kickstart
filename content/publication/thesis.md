@@ -36,7 +36,7 @@ selected = false
 #projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "Thesis.pdf"
+url_pdf = "local_files/Thesis.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

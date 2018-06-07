@@ -36,10 +36,15 @@ weight = 5
 
 # Biography
 
-I am a lecturer in statistical learning in the department of Mathematics and Statistics and Lancaster University. I completed my PhD in 2014 at the STOR-i Centre for Doctoral Training under the supervision of Professor Paul Fearnhead and Dr Lyudmila Mihaylova.
+I am a [Lecturer in Statistical Learning](http://www.lancaster.ac.uk/maths/people/christopher-nemeth) in the Department of Mathematics and Statistics and Lancaster University since 2015. 
 
-I work on problems related to Gaussian processes, Bayesian inference and computational statistics, with a focus on Markov chain Monte Carlo and sequential Monte Carlo techniques.
+I work on problems related to Gaussian processes, Bayesian inference and computational statistics, with a focus on Markov chain Monte Carlo and sequential Monte Carlo techniques. My current research is focused on Bayesian methods for Big Data and tools for online learning.
 
-During my PhD I worked in collaboration with an industrial partner, MBDA, applying sequential Monte Carlo algorithms to target tracking and guidance problems. My current research is focused on Bayesian methods for Big Data and tools for online learning.
+<!--- I currently hold an EPSRC fellowship on *Scalable and Exact Data Science for Security and Location-based Data* and 
+--->
+I am a Co-I on the EPSRC-funded [*Data Science for the Natural Environment*](http://gtr.ukri.org/projects?ref=EP%2FR01860X%2F1).
 
-I am one of the developers of the Gaussian Processes package for the Julia programming language.
+I chair the Royal Statistical Society group on Computational Statistics and Machine Learning [*RSS-CSML*](https://groups.google.com/forum/#!forum/rss-csml) and currently vice-chair of the [*Statistical Computing* section](http://www.rss.org.uk/RSS/Get_involved/Sections_and_study_groups/Statistical_Computing_Section/RSS/Get_involved/Sections/Statistical_Computing_Section.aspx?hkey=7f80dcaf-cbb9-490c-82cb-67471fcf1f7d).
+
+
+

@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "http://www.lancs.ac.uk/~nemeth/"
 
 # Title of your site
 title = "Christopher Nemeth"
@@ -97,11 +97,11 @@ enableGitInfo = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   
-  # map = 1
-  # map_api_key = "AIzaSyBMQmEo-moEP7vtkWJbM0Kj29NHP_opgJY"
-  # latitude = "54.008631" 
-  # longitude = "-2.784544"
-  # zoom = 15
+  map = 2
+  map_api_key = ""
+  latitude = "54.008631" 
+  longitude = "-2.784544"
+  zoom = 18
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
